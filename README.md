@@ -10,7 +10,7 @@ My work emphasizes:
 
 I am actively open to **freelance, contract, and junior AI/ML opportunities**.
 
-## 🔧 Technical Skills
+## Technical Skills
 
 **Programming & Tools**
 - Python,
@@ -36,7 +36,7 @@ I am actively open to **freelance, contract, and junior AI/ML opportunities**.
 
 ## 📌 Featured Projects
 
-### 🔹 Customer Churn Prediction with Business Insights
+### Customer Churn Prediction with Business Insights
 End-to-end machine learning project focused on predicting customer churn and extracting actionable business insights through EDA, feature engineering, model comparison, and explainability.
 
 **Tech:** Python, scikit-learn, XGBoost, SHAP  
@@ -44,17 +44,17 @@ End-to-end machine learning project focused on predicting customer churn and ext
 
 *(More projects coming: LLM applications, ML APIs, deployed models)*
 
-## 🎯 What I’m Looking For
+## What I’m Looking For
 
 - AI / Machine Learning Engineer roles  
 - Freelance or contract data science & ML projects  
 - Opportunities involving real-world datasets and business impact  
 
-## 📫 Contact
+## Contact
 
-- 💼 LinkedIn: **
-- 📧 Email: *semouniang777@gmail.com*
-- 🌍 Open to remote opportunities
+- LinkedIn: **
+- Email: *semouniang777@gmail.com*
+- Open to remote opportunities
 
 
 ⭐ If you find my work interesting, feel free to explore my repositories or reach out.
