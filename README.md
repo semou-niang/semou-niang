@@ -1,60 +1,76 @@
-# Hi, I’m an AI / Machine Learning Engineer 👋
+Hi, I'm a DevOps & Cloud Engineering Professional 👋
+I am a DevOps and Cloud Engineering professional building hands-on expertise in Linux, Kubernetes, Terraform, Docker, CI/CD, and cloud infrastructure.
 
-I am a **AI Engineer** with a strong foundation in **Machine Learning and Data Science**, currently focused on building **production-ready ML systems and LLM-powered applications**.
+My focus is on designing, automating, and operating reliable infrastructure using Infrastructure as Code (IaC), containerization, Kubernetes, and modern CI/CD practices.
 
-My work emphasizes:
-- Solving real business problems with data
-- Building end-to-end machine learning pipelines
-- Model interpretability and actionable insights
-- Clean, well-documented, and reproducible code
+I am currently building a production-oriented Kubernetes homelab and a portfolio of hands-on projects focused on infrastructure automation, cloud technologies, container orchestration, and observability.
 
-I am actively open to **freelance, contract, and junior AI/ML opportunities**.
+Alongside my cloud and infrastructure journey, I am pursuing postgraduate studies in Generative AI and Machine Learning, developing an additional foundation for future opportunities in AI infrastructure and MLOps.
 
-## Technical Skills
+My previous experience in engineering and construction has strengthened my problem-solving, project coordination, troubleshooting, and operational skills, which I apply to building reliable and maintainable technology solutions.
 
-**Programming & Tools**
-- Python,
-- GitHub, Docker
+#Technical Skills
+Linux & Scripting
 
-**Machine Learning & Data Science**
-- Scikit-learn, Pandas, NumPy, Matplotlib
-- Feature engineering & EDA
-- Supervised learning (classification, regression)
-- Model evaluation & metrics
-- Explainability (SHAP, feature importance)
+##Linux administration and troubleshooting
+Bash scripting
+Python scripting
+Git and GitHub
+Containers & Orchestration
 
-**AI & Deep Learning**
-- Tensorflow
-- Large Language Models (LLMs)
-- Prompt engineering
-- Embeddings & semantic search
+Docker
+Kubernetes
+Containerized application deployment
+Kubernetes cluster management
+Cloud & Infrastructure as Code
 
-**Deployment & APIs**
-- FastAPI
-- Model serialization (joblib)
-- Basic ML deployment workflows
+Microsoft Azure
+Terraform
+Infrastructure as Code (IaC)
+Cloud infrastructure provisioning
+CI/CD & Automation
 
-## 📌 Featured Projects
+CI/CD pipelines
+GitHub Actions
+GitOps
+Infrastructure automation
+Monitoring & Observability
 
-### Customer Churn Prediction with Business Insights
-End-to-end machine learning project focused on predicting customer churn and extracting actionable business insights through EDA, feature engineering, model comparison, and explainability.
+Prometheus
+Grafana
+Infrastructure monitoring
+Metrics, logging, and troubleshooting fundamentals
+📌 Featured Projects
+Kubernetes Homelab & Infrastructure Automation
+Building a production-oriented Kubernetes homelab to develop practical experience in container orchestration, infrastructure management, automation, and monitoring.
 
-**Tech:** Python, scikit-learn, XGBoost, SHAP  
-👉 Repository: *customer-churn-prediction-ml*
+Focus: Linux, Kubernetes, Docker, Terraform, CI/CD, Prometheus, Grafana
 
-*(More projects coming: LLM applications, ML APIs, deployed models)*
+Infrastructure as Code with Terraform
+Developing reusable infrastructure configurations to automate resource provisioning and apply Infrastructure as Code principles to cloud environments.
 
-## What I’m Looking For
+Focus: Terraform, Azure, IaC, automation
 
-- AI / Machine Learning Engineer roles  
-- Freelance or contract data science & ML projects  
-- Opportunities involving real-world datasets and business impact  
+CI/CD & GitOps Workflows
+Exploring automated build, deployment, and infrastructure management workflows using modern DevOps tools and Git-based practices.
 
-## Contact
+Focus: Git, GitHub Actions, CI/CD, GitOps, Docker
 
-- LinkedIn: **
-- Email: *semouniang777@gmail.com*
-- Open to remote opportunities
+More hands-on projects are in progress as I continue expanding my DevOps and Cloud Engineering portfolio.
 
+What I'm Looking For
+DevOps Engineer opportunities
+Cloud Engineer opportunities
+Platform Engineer opportunities
+Infrastructure Engineer opportunities
+Hands-on projects involving Kubernetes, Terraform, CI/CD, and cloud automation
+Opportunities to contribute to reliable, scalable, and automated infrastructure
+Core Technologies
+Linux · Kubernetes · Terraform · Docker · Azure · Git · GitHub Actions · CI/CD · GitOps · Bash · Python · Prometheus · Grafana
 
-⭐ If you find my work interesting, feel free to explore my repositories or reach out.
+Contact
+LinkedIn: [LinkedIn profile]](https://www.linkedin.com/in/semouniang)
+Email: semou.niang@proton.me
+Location: France
+Opportunities: Open to relevant roles and remote opportunities
+⭐ Feel free to explore my repositories to follow my hands-on learning journey and DevOps projects.
