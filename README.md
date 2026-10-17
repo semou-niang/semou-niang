@@ -69,7 +69,7 @@ Core Technologies
 Linux · Kubernetes · Terraform · Docker · Azure · Git · GitHub Actions · CI/CD · GitOps · Bash · Python · Prometheus · Grafana
 
 Contact
-LinkedIn: [LinkedIn profile]](https://www.linkedin.com/in/semouniang)
+LinkedIn: https://www.linkedin.com/in/semouniang
 Email: semou.niang@proton.me
 Location: France
 Opportunities: Open to relevant roles and remote opportunities
